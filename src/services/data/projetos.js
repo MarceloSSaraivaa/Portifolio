@@ -12,7 +12,7 @@ export const Projetos = [
     , github: 'https://github.com/MarceloSSaraivaa'
   },
   {
-    nome: 'App de clima', img: 'https://user-images.githubusercontent.com/122646917/240974214-2103ca78-4096-4719-8069-9e5ca4255222.png'
+    nome: 'Aplicativo de clima', img: 'https://user-images.githubusercontent.com/122646917/242581102-82dd798c-d982-426b-b884-c806217cecc1.png'
     , github: 'https://github.com/MarceloSSaraivaa'
   },
   {
